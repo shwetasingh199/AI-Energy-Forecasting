@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+models/*.joblib
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+data/*.csv
+!data/.gitkeep
+!models/.gitkeep
+!outputs/.gitkeep
+!images/.gitkeep
